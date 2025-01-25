@@ -1,1 +1,6 @@
-
+Nói một cách đơn giản, dữ liệu định lượng (quantitative data) giúp bạn có được những con số để chứng minh những điểm chung của nghiên cứu. Trong khi dữ liệu định tính (qualitative data) mang đến cho bạn các chi tiết và độ sâu để hiểu ý nghĩa đầy đủ của dữ liệu cũng như hiểu sâu về thị trường, khách hàng.
+You will recall that the mode is the most commonly occurring item of data. It is the item with the highest frequency. There can be morethan one mode, if more than one item has the highest frequencу, and so the distribution is bimodal.
+You will recall that the mean is the sum of all of the items of data divided by the number of items of data.
+- The formula is normally written as a=Σn/x where nis the number of data items.
+The simplest measure of variation is the difference between the highest and lowest items of data, known as the range. This is straightforward to calculate, but can be highly sensitive to extreme values.
+- Range = highest value - lowest value
